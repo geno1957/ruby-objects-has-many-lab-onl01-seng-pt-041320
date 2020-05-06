@@ -12,4 +12,6 @@ def song.all
   @all 
 end 
 
-song = Song.new 
+end 
+
+# song = Song.new 
